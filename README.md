@@ -1,2 +1,2 @@
-# Tratamento-de-Dados---Python-Jupyther
+# Data processing - Python-Jupyther
 Tratamento de dados estudantis da UFRN com o objetivo de analisá-los na ferramenta do Weka
